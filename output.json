@@ -1,0 +1,123 @@
+{
+    "name": "K.M Mahamudul Haque",
+    "title": "Assistant Programmer (AI)",
+    "description": "I am a skilled AI engineer. I am always energetic and eager to learn new skills. I have a good communication skill. I have worked in my field for a significant amount of time and have acquired valuable skills that I am confident that it will be generate a great value to the company.",
+    "email": "mahamudulhaque122@gmail.com",
+    "phone": "01826852502",
+    "workExperience": [
+        {
+            "title": "Assistant Programmer (AI)",
+            "organization": "Golden Harvest Infotech Ltd",
+            "duration": "08/2021 - Present",
+            "location": "Dhaka, Bangaldesh",
+            "responsibilities": [
+                "Created Hand-written text recognition model for extract historical data from images",
+                "Created OCR tool for extract historical data and Invoice data with Tesseract.",
+                "Developed face detection model for E-KYC project with YOLO.",
+                "Developed automated deployment script for Devops.",
+                "Created chat-bot system for web application with NLP",
+                "Researching on automatic Speech Recognition system with DeepSpeech",
+                "Produced and updated documentation concerning ICT infrastructure to assist with implementing working processes and helped to achieve CMMI level 3"
+            ]
+        },
+        {
+            "title": "Project Manager Of Datakeying software.",
+            "duration": "02/2022 - 04/2023"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science and Engineering",
+            "institution": "United International University",
+            "duration": "08/2016 - 02/2021",
+            "gpa": 3.49,
+            "thesis": "Monitoring and Predicting Mental Health using Morphological and Emotion Analysis of Twitter Data"
+        },
+        {
+            "degree": "Higher Secondary School Certificate",
+            "institution": "Cantonment public School and College, Rangpur.",
+            "duration": "2013 - 2015",
+            "gpa": 5
+        }
+    ],
+    "softSkills": [
+        "Eager To Learn",
+        "Team Player",
+        "Working Under Pressure",
+        "Team Building and Leadership",
+        "Critical Thinking",
+        "Adaptability"
+    ],
+    "social": {
+        "github": "github.com/KhanNayan",
+        "linkedin": "linkedin.com/in/mahmudul-haque-nayan-845162220"
+    },
+    "technicalSkills": [
+        {
+            "programmingLanguages": [
+                "Python",
+                "Java",
+                "C/C++"
+            ]
+        },
+        {
+            "mlFrameworks": [
+                "Tensorflow",
+                "Keras",
+                "Pytorch",
+                "FastAi",
+                "HuggingFace"
+            ]
+        },
+        {
+            "libraries": [
+                "Numpy",
+                "Pandas",
+                "Scipy",
+                "Scikit-Learn"
+            ]
+        },
+        {
+            "computerVision": [
+                "OpenCv",
+                "PIL",
+                "YOLO"
+            ]
+        },
+        {
+            "restfulAPI": [
+                "FastAPI"
+            ]
+        },
+        {
+            "textEditor": [
+                "Visual Studio Code",
+                "IntelliJ IDEA",
+                "Code Blocks",
+                "Android Studio"
+            ]
+        },
+        {
+            "latex": [
+                "Overleaf"
+            ]
+        },
+        {
+            "platform": [
+                "Linux",
+                "MacOs",
+                "Windows"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Bangla",
+            "proficiency": "Full Professional Proficiency"
+        },
+        {
+            "language": "English",
+            "proficiency": "Professional Working Proficiency"
+        }
+    ]
+}
